@@ -29,7 +29,7 @@
                     <div class="col-xl-5 col-lg-5 col-md-5 col-12 aos-item" data-aos="fade-up"
                          data-aos-duration="500" data-aos-once="true">
                         <div class="footer-copyright-text md-txt-left lg-txt-left xs-txt-center sm-txt-center">
-                            <p>© 2022 <span class="color-primary">NGT</span>, All Right Receved.</p>
+                            <p>© 2023 <span class="color-primary">Next Gen Tech</span>, All Right Receved.</p>
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-7 col-md-7 col-12 aos-item" data-aos="fade-up"
@@ -48,9 +48,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-4 col-12 aos-item" data-aos="fade-up"
                          data-aos-duration="700" data-aos-once="true">
                         <div class="footer-copyright-logo mrt-30 md-txt-left lg-txt-left xs-txt-center sm-txt-center">
-                            <a href="#">
-                                <img src="assets/images/footer-logo-light.png" alt="Logo"/>
-                            </a>
+                            <a class="btn btn-primary rounded-pill" href="tel:+852 95509806">+852 95509806</a>
                         </div>
                     </div>
                     <div class="col-xl-8 col-lg-8 col-md-8 col-12 aos-item" data-aos="fade-up"

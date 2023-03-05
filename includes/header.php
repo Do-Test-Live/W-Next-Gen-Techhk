@@ -6,7 +6,7 @@
                     <!-- Site Branding -->
                     <div class="site-branding">
                         <a href="#">
-                            <img class="logo-dark" src="assets/images/logo-dark.png" style="width: 100px;height: 50px;" alt="Site Logo"/>
+                            <img class="logo-dark" src="assets/images/logo-dark.png" alt="Site Logo"/>
                             <img class="logo-white" src="assets/images/logo-white.png" alt="Site Logo"/>
                         </a>
                     </div><!--  /.site-branding -->

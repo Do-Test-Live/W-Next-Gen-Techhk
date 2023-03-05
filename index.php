@@ -40,7 +40,7 @@ if(isset($_POST['submit'])){
 
     <!-- Sticky Header -->
     <?php include('includes/sticky.php'); ?>
-    <!-- End Sticky Header ~-->
+    <!-- End Sticky Header -->
 
     <!-- Start Frontpage Banner Section -->
     <div id="home" class="frontpage-banner-section frontpage-banner-style-three">

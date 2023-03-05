@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
 <!-- Site Title -->
-<title>NEXTGEN TECH</title>
+<title>NEXT GEN TECH</title>
 
 <!-- Site Fav Icon -->
 <link rel="shortcut icon" href="assets/images/favicon.ico"/>
