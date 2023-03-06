@@ -22,7 +22,7 @@
     <!--~./ End Footer Widget Area ~-->
 
     <!-- Start Footer Bottom Area -->
-    <div class="footer-bottom-area style-one">
+    <div class="footer-bottom-area style-one mobilesrc">
         <div class="container">
             <div class="footer-copyright">
                 <div class="row align-items-center">
@@ -34,6 +34,22 @@
         </div>
     </div>
     <!--~./ End Footer Bottom Area ~-->
+    <div class="footer-bottom-area style-one pcsrc">
+        <div class="container">
+            <div class="footer-copyright">
+                <div class="row align-items-center">
+                    <div class="col-md-6 col-sm-12 text-center">
+                        <p style="font-weight: 700"><span class="text-gradient"><a href="tel:85295509806">Contact: +852 95509806</a></span></p>
+                    </div>
+                    <div class="col-md-6 col-sm-12 text-center">
+                        <p style="font-weight: 700"><span class="text-gradient">© 2023 Next Gen Tech, All Right Reserved.</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--~./ End Footer Bottom Area ~-->
+
 
 
 </footer>

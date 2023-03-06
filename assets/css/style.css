@@ -13364,6 +13364,11 @@ a:hover, a:active {
 .site-footer {
   padding-bottom: 90px;
 }
+@media only screen and (max-width: 380px) {
+  .mbfooter {
+    display: block;
+  }
+}
 @media only screen and (max-width: 767px) {
   .site-footer {
     padding-bottom: 80px;
@@ -13456,11 +13461,12 @@ a:hover, a:active {
 }
 
 .footer-bottom-area {
-  padding-top: 60px;
+  padding-top: -2px;
 }
 @media only screen and (max-width: 1199px) {
   .footer-bottom-area {
-    padding-top: 30px;
+    padding-top: 12px;
+
   }
 }
 .footer-bottom-area .footer-logo-area {
@@ -13568,6 +13574,19 @@ a:hover, a:active {
 .footer-copyright-logo-area .footer-copyright-social.style-two a:hover, .footer-copyright-logo-area .footer-copyright-social.style-two a:focus{
   background-color: #ffd564;
   color: white;
+}
+
+@media only screen and (max-width: 420px) {
+  .mobilesrc {
+    display: none;
+
+  }
+}
+@media only screen and (min-width: 420px) {
+  .pcsrc {
+    display: none;
+
+  }
 }
 
 
